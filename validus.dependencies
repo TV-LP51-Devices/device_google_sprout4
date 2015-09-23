@@ -1,0 +1,24 @@
+[ 
+
+  { 
+    "repository": "TV-LP51-Devices/device_google_sprout-common",
+    "target_path": "device/google/sprout-common",
+    "branch": "lp-5.1"
+  },
+  { 
+    "repository": "TheMuppets/proprietary_vendor_google",
+    "target_path": "vendor/google",
+    "branch": "cm-12.1"
+  },
+  { 
+    "repository": "TV-LP51-Devices/android_kernel_mediatek_sprout",
+    "target_path": "kernel/mediatek/sprout",
+    "branch": "lp-5.1"
+  },
+  {
+    "repository": "CyanogenMod/android_packages_apps_FMRadio",
+    "target_path": "packages/apps/FMRadio",
+    "branch": "cm-12.1"
+  }
+
+]
